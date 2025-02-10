@@ -53,10 +53,8 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 Twitter: [@your_twitter](https://twitter.com/your_twitter)
-
+- 📧 Email: [eunho9932@gmail.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [Eunho Lee]((https://www.linkedin.com/in/eunho-lee-71b615270/))
 ---
 
 ### 🏆 GitHub Trophies
