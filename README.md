@@ -52,16 +52,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats
-<div>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=NBYK210118&show_icons=true&theme=react&title_color=61dafb&text_color=ffffff&bg_color=20232a&icon_color=61dafb&border_color=61dafb&hide_border=true" />
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBYK210118&hide=python,javascript,typescript,react,react-native,html,css,nestjs&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-</div>
-
-<br clear="both"/>
-
----
-
 ### 📫 How to Reach Me
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
