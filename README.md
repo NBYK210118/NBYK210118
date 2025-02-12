@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🎉 Started a new **Deep Learning Project**  
+- 🎉 Started learning Deep Learning with Style Transfer Models, including CycleGAN, Pix2Pix, and Neural Style Transfer (NST).
 - 🔥 Developing a **React Native Mobile Shopping App**  
 - 📚 Exploring **Machine Learning & Web3 Technologies**  
 - 🛠 **Mobile Shopping Mall Application Development**  
