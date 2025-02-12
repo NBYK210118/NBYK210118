@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 <!--
 **NBYK210118/NBYK210118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=NBYK210118&show_icons=true&theme=holi" width = "49%" height="130%" />
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=NBYK210118&show_icons=true&theme=holi" width="49%" height="130%" />
 </div>
 <div>
   <img id="img_1" height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBYK210118&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
@@ -34,6 +35,8 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 - 🔭 I’m currently working on **Machine Learning & Web Development**
 - 🌱 I’m currently learning **Deep Learning, Web3, and System Programming**
+- 💡 **Semi Project**: Sentiment Analysis on Amazon Review Data 📊
+- 🎯 **Final Project**: Developing a Delivery Demand Prediction Model Based on Weather Data 🌤️🚴‍♂️
 - ⚡ Fun fact: I love **soccer** and **coding challenges**!
 
 ---
@@ -53,8 +56,9 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: [eunho9932@gmail.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Eunho Lee]((https://www.linkedin.com/in/eunho-lee-71b615270/))
+- 📧 Email: [eunho9932@gmail.com](mailto:eunho9932@gmail.com)
+- 💼 LinkedIn: [Eunho Lee](https://www.linkedin.com/in/eunho-lee-71b615270/)
+
 ---
 
 ### 🏆 GitHub Trophies
