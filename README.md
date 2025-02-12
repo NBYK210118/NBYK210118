@@ -73,6 +73,17 @@ Here are some ideas to get you started:
 1. 🎉 Opened a new project on **Deep Learning**
 2. 🔥 Working on **React Native App**
 3. 📚 Studying **Machine Learning & Web3**
+4. 🛠️ Mobile Shopping Mall Application Development:
+
+Frontend: React Native
+Backend: Supabase (Authentication, Realtime Database)
+ORM: Prisma (Database Management & Query Optimization)
+📌 Key Features:
+
+User authentication & profile management (Supabase Auth)
+Product listing with filtering options
+Shopping cart and order processing
+Real-time data synchronization (Supabase Realtime)
 <!--END_SECTION:activity-->
 
 ---
