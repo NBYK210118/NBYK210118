@@ -80,8 +80,14 @@ Here are some ideas to get you started:
   - **Key Features:**  
     ✅ User Authentication & Profile Management (`Supabase Auth`)  
     ✅ Product Listing with Filtering Options  
-    ✅ Shopping Cart & Order Processing  
-    ✅ Real-time Data Synchronization (`Supabase Realtime`)  
+    ✅ Shopping Cart
+    ✅ Searching Product
+    ✅ Product Listing & Editing**  
+      - Implemented a feature for **registering and managing products** in the shopping mall application.  
+      - Enabled **product information updates**, allowing sellers to modify details such as name, price, description, and images.  
+      - Integrated **real-time database updates** to ensure instant reflection of changes using `Supabase Realtime`.  
+      - Applied form validation to prevent incomplete or incorrect product submissions.  
+      - Optimized API calls for better performance and scalability.  
 <!--END_SECTION:activity-->
 
 ---
