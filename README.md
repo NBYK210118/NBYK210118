@@ -70,23 +70,22 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Opened a new project on **Deep Learning**
-2. 🔥 Working on **React Native App**
-3. 📚 Studying **Machine Learning & Web3**
-4. 🛠️ Mobile Shopping Mall Application Development:
-
-Frontend: React Native
-Backend: Supabase (Authentication, Realtime Database)
-ORM: Prisma (Database Management & Query Optimization)
-📌 Key Features:
-
-User authentication & profile management (Supabase Auth)
-Product listing with filtering options
-Shopping cart and order processing
-Real-time data synchronization (Supabase Realtime)
+- 🎉 Started a new **Deep Learning Project**  
+- 🔥 Developing a **React Native Mobile Shopping App**  
+- 📚 Exploring **Machine Learning & Web3 Technologies**  
+- 🛠 **Mobile Shopping Mall Application Development**  
+  - **Frontend:** ⚛️ React Native  
+  - **Backend:** 🛢️ Supabase (Authentication, Realtime Database)  
+  - **ORM:** 🗂️ Prisma (Database Management & Query Optimization)  
+  - **Key Features:**  
+    ✅ User Authentication & Profile Management (`Supabase Auth`)  
+    ✅ Product Listing with Filtering Options  
+    ✅ Shopping Cart & Order Processing  
+    ✅ Real-time Data Synchronization (`Supabase Realtime`)  
 <!--END_SECTION:activity-->
 
 ---
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NBYK210118&label=Profile+Views&color=61dafb&style=flat" alt="Profile Views" />
