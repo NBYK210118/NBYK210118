@@ -84,10 +84,10 @@ Here are some ideas to get you started:
     ✅ Searching Product
     ✅ Product Listing & Editing**  
       - Implemented a feature for **registering and managing products** in the shopping mall application.  
-      - Enabled **product information updates**, allowing sellers to modify details such as name, price, description, and images.  
-      - Integrated **real-time database updates** to ensure instant reflection of changes using `Supabase Realtime`.  
+      - Enabled **product information updates**, allowing sellers to modify details such as name, price, description, and images.   
       - Applied form validation to prevent incomplete or incorrect product submissions.  
-      - Optimized API calls for better performance and scalability.  
+      - Optimized API calls for better performance and scalability by using supabase.
+      - You can check out my repository and watch the test video to see how it works. https://github.com/NBYK210118/e-commerce-supabase
 <!--END_SECTION:activity-->
 
 ---
