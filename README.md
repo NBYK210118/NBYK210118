@@ -88,31 +88,36 @@ Here are some ideas to get you started:
       - Applied form validation to prevent incomplete or incorrect product submissions.  
       - Optimized API calls for better performance and scalability by using supabase.
       - You can check out my repository and watch the test video to see how it works. https://github.com/NBYK210118/e-commerce-supabase
-- ## 🐶 Memories - AI-Powered Pet Sketch Service 🖌️
+  ## 🐶 Memories - AI-Powered Pet Sketch Service 🖌️
 
-### Overview  
-AI-powered web application that transforms pet photos into artistic sketches.
-
-### Key Features  
-✅ AI-based pet photo sketch transformation  
-✅ Simple UI for image upload and download  
-✅ Real-time image processing and preview  
-✅ Intuitive user-friendly design  
-
-### ⚙️ Tech Stack  
-
-#### 💻 Frontend  
-- Next.js (TypeScript, TailwindCSS)  
-
-#### 🔧 Backend  
-- FastAPI (Python), AWS S3  
-
-### 🚀 Project Status  
-- Home, Contact, About Us, and Sign Up pages are not yet implemented.  
-
-### 📌 Check out the project repository and demo video:  
-- 🎥 [Demo Video](https://drive.google.com/file/d/1v8ipOuASBPnRNdRcHlZWxvBixFZpoB34/view?usp=drive_link)  
-- 🔗 [GitHub Repo](https://github.com/NBYK210118/memories)  
+  ### Overview  
+  AI-powered web application that transforms pet photos into artistic sketches.
+  
+  ### Key Features  
+  ✅ AI-based pet photo sketch transformation  
+  ✅ Simple UI for image upload and download  
+  ✅ Real-time image processing and preview  
+  ✅ Intuitive user-friendly design  
+  
+  ### ⚙️ Tech Stack  
+  
+  #### 💻 Frontend  
+  - Next.js (TypeScript, TailwindCSS)  
+  
+  #### 🔧 Backend  
+  - FastAPI (Python), AWS S3  
+  
+  ### 🤖 Model  
+  - The model used for image transformation is **Pix2Pix**.  
+  - The model code and implementation details are based on the repository:  
+    🔗 [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)  
+  
+  ### 🚀 Project Status  
+  - Home, Contact, About Us, and Sign Up pages are not yet implemented.  
+  
+  ### 📌 Check out the project repository and demo video:  
+  - 🎥 [Demo Video](https://drive.google.com/file/d/1v8ipOuASBPnRNdRcHlZWxvBixFZpoB34/view?usp=drive_link)  
+  - 🔗 [GitHub Repo](https://github.com/NBYK210118/memories)  
 <!--END_SECTION:activity-->
 
 
