@@ -88,8 +88,7 @@ Here are some ideas to get you started:
       - Applied form validation to prevent incomplete or incorrect product submissions.  
       - Optimized API calls for better performance and scalability by using supabase.
       - You can check out my repository and watch the test video to see how it works. https://github.com/NBYK210118/e-commerce-supabase
-<!--END_SECTION:activity-->
-## 🐶 Memories - AI-Powered Pet Sketch Service 🖌️
+- ## 🐶 Memories - AI-Powered Pet Sketch Service 🖌️
 
 ### Overview  
 AI-powered web application that transforms pet photos into artistic sketches.
@@ -114,6 +113,8 @@ AI-powered web application that transforms pet photos into artistic sketches.
 ### 📌 Check out the project repository and demo video:  
 - 🎥 [Demo Video](https://drive.google.com/file/d/1v8ipOuASBPnRNdRcHlZWxvBixFZpoB34/view?usp=drive_link)  
 - 🔗 [GitHub Repo](https://github.com/NBYK210118/memories-ai)  
+<!--END_SECTION:activity-->
+
 
 
 ---
