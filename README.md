@@ -112,7 +112,7 @@ AI-powered web application that transforms pet photos into artistic sketches.
 
 ### 📌 Check out the project repository and demo video:  
 - 🎥 [Demo Video](https://drive.google.com/file/d/1v8ipOuASBPnRNdRcHlZWxvBixFZpoB34/view?usp=drive_link)  
-- 🔗 [GitHub Repo](https://github.com/NBYK210118/memories-ai)  
+- 🔗 [GitHub Repo](https://github.com/NBYK210118/memories)  
 <!--END_SECTION:activity-->
 
 
