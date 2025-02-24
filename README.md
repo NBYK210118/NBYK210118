@@ -30,16 +30,22 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+developer+passionate+about+coding!;Always+learning+new+things!🚀" alt="Typing SVG" />
 </p>
 
----
-
 ### 🚀 About Me
-- 🔭 I’m currently working on **Machine Learning & Web Development**
-- 🌱 I’m currently learning **Deep Learning, Web3, and System Programming**
-- 💡 **Semi Project**: Sentiment Analysis on Amazon Review Data 📊
-- 🎯 **Final Project**: Developing a Delivery Demand Prediction Model Based on Weather Data 🌤️🚴‍♂️
-- ⚡ Fun fact: I love **soccer** and **coding challenges**!
 
----
+🔭 **I’m currently working on:**  
+- Machine Learning & Web Development
+
+🌱 **I’m currently learning:**  
+- Deep Learning, Web3, and System Programming
+
+💡 **Semi Project:**  
+- **Sentiment Analysis on Amazon Review Data** 📊  
+  _Conducted as part of the 12th Service Industry Data Analyst Bootcamp by Samsung SDS (Multicampus)_
+
+🎯 **Final Project:**  
+- **Developing a Delivery Demand Prediction Model Based on Weather Data** 🌤️🚴‍♂️  
+  _Conducted as part of the 12th Service Industry Data Analyst Bootcamp by Samsung SDS (Multicampus)_
+
 
 ### 🛠 Tech Stack
 <p>
