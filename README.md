@@ -78,22 +78,39 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 - 🎉 Started learning Deep Learning with Style Transfer Models, including CycleGAN, Pix2Pix, and Neural Style Transfer (NST).
 - 🔥 Developing a **React Native Mobile Shopping App**  
-- 📚 Exploring **Machine Learning & Web3 Technologies**  
-- 🛠 **Mobile Shopping Mall Application Development**  
-  - **Frontend:** ⚛️ React Native  
-  - **Backend:** 🛢️ Supabase (Authentication, Realtime Database)  
-  - **ORM:** 🗂️ Prisma (Database Management & Query Optimization)  
-  - **Key Features:**  
-    ✅ User Authentication & Profile Management (`Supabase Auth`)  
-    ✅ Product Listing with Filtering Options  
-    ✅ Shopping Cart
-    ✅ Searching Product
-    ✅ Product Listing & Editing**  
-      - Implemented a feature for **registering and managing products** in the shopping mall application.  
-      - Enabled **product information updates**, allowing sellers to modify details such as name, price, description, and images.   
-      - Applied form validation to prevent incomplete or incorrect product submissions.  
-      - Optimized API calls for better performance and scalability by using supabase.
-      - You can check out my repository and watch the test video to see how it works. https://github.com/NBYK210118/e-commerce-supabase
+- 📚 Exploring **Machine Learning & Web3 Technologies**
+- 
+## 🛒 Mobile Shopping Mall Application Development  
+
+### Overview  
+A mobile shopping mall application developed with a focus on seamless user experience and efficient product management. The application supports user authentication, product listing, shopping cart functionality, and more.  
+
+### Key Features  
+✅ User Authentication & Profile Management (`Supabase Auth`)  
+✅ Product Listing with Filtering Options  
+✅ Shopping Cart  
+✅ Product Searching  
+✅ Product Listing & Editing  
+  - Implemented a feature for **registering and managing products** in the shopping mall application.  
+  - Enabled **product information updates**, allowing sellers to modify details such as name, price, description, and images.   
+  - Applied form validation to prevent incomplete or incorrect product submissions.  
+  - Optimized API calls for better performance and scalability by using Supabase.  
+
+### ⚙️ Tech Stack  
+
+#### 💻 Frontend  
+- React Native  
+
+#### 🔧 Backend  
+- Supabase (Authentication, Realtime Database)  
+
+#### 🗂️ ORM  
+- Prisma (Database Management & Query Optimization)  
+
+### 📌 Check out the project repository and demo video:  
+- 🔗 [GitHub Repo](https://github.com/NBYK210118/e-commerce-supabase)  
+
+
   ## 🐶 Memories - AI-Powered Pet Sketch Service 🖌️
 
   ### Overview  
