@@ -5,9 +5,6 @@
 -->
 
 <div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=NBYK210118&show_icons=true&theme=holi" width="49%" height="130%" />
-</div>
-<div>
   <img id="img_1" height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBYK210118&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
 
@@ -44,7 +41,8 @@
 
 - 🥉 2025 제8회 Hallym SW Week – 한림 AI 경진대회 동상 
 - 🥇 2025 디지털 경진대회 금상 수상  
-- 🏆 2025 정보과학대학 학술제 '서공제' 최우수상 수상  
+- 🏆 2025 정보과학대학 학술제 '서공제' 최우수상 수상
+- 🥉 2025 추계종합학술대회 대학생 논문 경진대 동상 수상, 논문 제목 : [인간-AI 협력을 통한 리듬 이벤트 추출 및 편집 보조]
 
 ---
 
