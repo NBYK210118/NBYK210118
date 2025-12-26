@@ -12,10 +12,6 @@
 
 <h1 align="center">Hi there! 👋 I'm NBYK210118</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+developer+passionate+about+coding!;Always+learning+new+things!🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🚀 About Me
