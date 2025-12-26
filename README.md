@@ -56,13 +56,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NBYK210118&theme=dracula&column=6&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 - 🎉 Started learning Deep Learning with Style Transfer Models, including CycleGAN, Pix2Pix, and Neural Style Transfer (NST).
