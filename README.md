@@ -71,5 +71,3 @@
 <!--END_SECTION:activity-->
 
 ---
-
-## 🛒 Mobile Shopping Mall Application
