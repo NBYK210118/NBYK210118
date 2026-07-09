@@ -57,9 +57,11 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🎉 Started learning Deep Learning with Style Transfer Models, including CycleGAN, Pix2Pix, and Neural Style Transfer (NST).
-- 🔥 Developing a **React Native Mobile Shopping App**  
-- 📚 Exploring **Machine Learning & Web3 Technologies**
+- 🔬 Studying **Diffusion Model Watermarking** and robustness evaluation.
+- 🛡️ Exploring **AI Security**, including model extraction defense, adversarial attacks, and watermark removal.
+- 🧠 Reviewing major **Deep Learning & Generative Model papers**: MAML, CFG, NeRF, Swin, DiT, LoRA, StyleGAN, DETR, and more.
+- 🎨 Learning **Style Transfer & Image-to-Image Translation** with CycleGAN, Pix2Pix, and NST.
+- 📚 Building research foundations in **Computer Vision, Diffusion Models, and Adversarial Robustness**.
 <!--END_SECTION:activity-->
 
 ---
